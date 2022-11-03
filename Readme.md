@@ -1,8 +1,7 @@
-<h1>Multiplication Table</h1>
-<h3>This is a multipliccation table generator which will generate the multiplication tab.<h3>
-<h2>Design Phase<h2>
-  <imagesrc ="https://user-images.githubusercontent.com/95826757/199845758-be8748f1-2cad-4383-b934-b63cedda4ca2.png"></image>
-
-<h2>Final Result<h2>
-  ![image](https://user-images.githubusercontent.com/95826757/199845800-03944c39-cccb-43ce-8eab-f8789de7da8c.png)
+Multiplication Table
+This is a multipliccation table generator which will generate the multiplication tab
+Design Phase
+![image](https://user-images.githubusercontent.com/95826757/199846197-e463c56e-69a7-4a4e-bf79-93b01ba56894.png)
+Final Result
+![image](https://user-images.githubusercontent.com/95826757/199845800-03944c39-cccb-43ce-8eab-f8789de7da8c.png)
 
